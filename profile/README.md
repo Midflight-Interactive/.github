@@ -3,7 +3,7 @@
 # 👋 Welcome to Midflight Interactive!
 ✨ **We're so excited to have you here!** Join us on our incredible journey to create the highest-quality games out there. Have a look at our social links to get started!
 
-✈️ **Midflight Interactive is a game development studio founded in 2023 on Roblox by speedy4, rortify, and norvich_dev.** Now focused on developing games with the Stride game engine, we will be entering the Steam market in the coming years. Stay tuned!
+✈️ **Midflight Interactive is a game development studio founded in 2023 on Roblox by speedy4, rortify, and norvich_dev** that is now focusing on developing with the Stride game engine.
 
 🎮 **Flying you to the greatest experiences imaginable since 2023.**
 
